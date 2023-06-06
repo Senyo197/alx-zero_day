@@ -1,1 +1,1 @@
-Doing first git project
+Doing first my git project
